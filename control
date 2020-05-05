@@ -1,0 +1,10 @@
+Package: com.minazuki.fsp
+Name: FakeSileoPurchase
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disguise as if you purchased a paid app.  Let's buy it properly.
+Depiction: https://minazukidev.github.io/html/FakeSileoPurchase/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
